@@ -1,5 +1,17 @@
-div {
-  background-image: url("assets/images/NewsFace.png");
-  background-size: cover;
-  background-repeat: no-repeat;
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+h1 {
+  padding-top: 4em;
+}
+
+p {
+  margin: 2em 0;
+}
+
+img {
+  width: 200em;
+  max-width: 100%;
 }
